@@ -1,3 +1,3 @@
 # **Lango**
 
-Lango is a collection of API backends built with the django rest framework.
+Lango is a collection of projects built using Django.
